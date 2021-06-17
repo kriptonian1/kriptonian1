@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ![image](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif)
+
 
 <!--
 **kriptonian1/kriptonian1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
