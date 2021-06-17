@@ -2,6 +2,9 @@
 <a href="https://www.linkedin.com/in/sawan-bhattacharya-903a96204/">
   <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"  />
 </a>
+<a href="https://twitter.com/kriptonian8">
+  <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"  />
+</a>
 
 <!--
 **kriptonian1/kriptonian1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
