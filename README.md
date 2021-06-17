@@ -1,5 +1,7 @@
 ## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Kriptonian
-
+<a href="https://www.linkedin.com/in/sawan-bhattacharya-903a96204/">
+  <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"  />
+</a>
 
 <!--
 **kriptonian1/kriptonian1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
