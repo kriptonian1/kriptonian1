@@ -12,7 +12,7 @@
 </br>
 
 ### About Me 🚀
-I'm a Open-Source enthusiast from India :india:
+I'm an Open-Source enthusiast from India :india: & currently I am a class 12th passout :classical_building: 
 
 
 
