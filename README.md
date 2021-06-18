@@ -5,6 +5,9 @@
 <a href="https://twitter.com/kriptonian8">
   <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"  />
 </a>
+<a href="https://github.com/kriptonian1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriptonian1&theme=dark&hide_langs_below=1" />
+</a>
 
 <!--
 **kriptonian1/kriptonian1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
