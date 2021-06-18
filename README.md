@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python
 
 ## :toolbox: Toolbox
-<img align="left" src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" height="50"> <img align="left" src = "https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" width="50" height="50"> <img  src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50">
+<img align="left" src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" height="50"> <img align="left" src = "https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" width="50" height="50"> <img align="left" src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50"> <img  src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50">
+
 
 ##
 <a href="https://github.com/kriptonian1">
