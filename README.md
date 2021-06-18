@@ -13,14 +13,26 @@
 
 ### About Me 🚀
 I'm an Open-Source enthusiast from India :india: & currently I am a class 12th passout :classical_building: 
-I'm a pure geek who loves learning new technology 
+</br>
+I'm a pure geek who loves learning new technology
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on [Symbi0n](https://github.com/kriptonian1/Symbi0n) & [roBOT](https://github.com/kriptonian1/roBOT)
+- 🌱 I’m currently learning C++ & Java
+- 👯 I’m looking to collaborate on more Open-source projets
+- 💬 Ask me about Python
 
 
-
-
-<!-- <a href="https://github.com/kriptonian1">
+##
+<a href="https://github.com/kriptonian1">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kriptonian1&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
+</br>
+</br>
+<a href="https://github.com/kriptonian1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriptonian1&theme=dark&hide_langs_below=1" />
-</a> -->
+</a>
 
 <!--
 **kriptonian1/kriptonian1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
