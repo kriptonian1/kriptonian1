@@ -14,15 +14,16 @@
 ### About Me 🚀
 I'm an Open-Source enthusiast from India :india: & currently I am a class 12th passout :classical_building: 
 </br>
-I'm a pure geek who loves learning new technology
+I'm a pure geek <img src="https://github.com/kriptonian1/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who loves learning new technology
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Symbi0n](https://github.com/kriptonian1/Symbi0n) & [roBOT](https://github.com/kriptonian1/roBOT)
 - 🌱 I’m currently learning C++ & Java
-- 👯 I’m looking to collaborate on more Open-source projets
+- 👯 I’m looking to collaborate on more Open-source projets :octocat:
 - 💬 Ask me about Python
 
+## :toolbox: Toolbox
 
 ##
 <a href="https://github.com/kriptonian1">
