@@ -9,6 +9,9 @@
 <a href="https://www.instagram.com/_kriptonian/">
   <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"  />
 </a>
+<a href="https://discord.com/users/448359781095440385">
+  <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg"  />
+</a>
 </br>
 
 ### About Me 🚀
