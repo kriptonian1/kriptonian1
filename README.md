@@ -1,10 +1,19 @@
 ## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Kriptonian
+
 <a href="https://www.linkedin.com/in/sawan-bhattacharya-903a96204/">
   <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"  />
 </a>
 <a href="https://twitter.com/kriptonian8">
   <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"  />
 </a>
+<a href="https://www.instagram.com/_kriptonian/">
+  <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"  />
+</a>
+
+
+
+
+
 <a href="https://github.com/kriptonian1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriptonian1&theme=dark&hide_langs_below=1" />
 </a>
