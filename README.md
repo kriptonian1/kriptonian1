@@ -24,15 +24,20 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python
 
 ## :toolbox: Toolbox
+<img align="left" src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" height="50"> <img align="left" src = "https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" width="50" height="50"> <img  src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50">
 
 ##
 <a href="https://github.com/kriptonian1">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kriptonian1&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+ <img align="middle" src="https://github-readme-stats.vercel.app/api?username=kriptonian1&show_icons=true&theme=react&line_height=27" alt="kriptonian's github stats"/>
 </a>
 </br>
 </br>
 <a href="https://github.com/kriptonian1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriptonian1&theme=dark&hide_langs_below=1" />
+ <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=kriptonian1&theme=react" alt="kriptonian's github stats"/>
+</br>
+</br>
+<a href="https://github.com/kriptonian1">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriptonian1&theme=react&hide_langs_below=1&line_height=27" alt="kriptonian's github stats" />
 </a>
 
 <!--
