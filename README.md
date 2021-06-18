@@ -13,6 +13,7 @@
 
 ### About Me 🚀
 I'm an Open-Source enthusiast from India :india: & currently I am a class 12th passout :classical_building: 
+I'm a pure <p style="color = green">geek</p> who loves learning new technology 
 
 
 
