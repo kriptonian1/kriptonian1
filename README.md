@@ -9,7 +9,8 @@
 <a href="https://www.instagram.com/_kriptonian/">
   <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"  />
 </a>
-
+### About Me 🚀
+I'm a Open-Source enthusiast from India :india:
 
 
 
