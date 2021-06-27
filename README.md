@@ -31,18 +31,22 @@ Here are some ideas to get you started:
 
 
 ##
+<p align="center">
 <a href="https://github.com/kriptonian1">
  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=kriptonian1&show_icons=true&theme=react&line_height=27" alt="kriptonian's github stats"/>
-</a>
+</a> </p>
 </br>
 </br>
+<p align="center">
 <a href="https://github.com/kriptonian1">
  <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=kriptonian1&theme=react" alt="kriptonian's github stats"/>
+ </a></p>
 </br>
 </br>
+<p align="center">
 <a href="https://github.com/kriptonian1">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriptonian1&theme=react&hide_langs_below=1&line_height=27" alt="kriptonian's github stats" />
-</a>
+</a> </p>
 
 <!--
 **kriptonian1/kriptonian1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
