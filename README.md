@@ -1,6 +1,6 @@
 ## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Kriptonian
 
-<a href="https://www.linkedin.com/in/sawan-bhattacharya-903a96204/">
+<a href="https://www.linkedin.com/in/sawan-bhattacharya/">
   <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"  />
 </a>
 <a href="https://twitter.com/kriptonian8">
