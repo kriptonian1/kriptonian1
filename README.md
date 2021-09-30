@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - ⭐ 3 stars in [Codechef](https://www.codechef.com/users/kriptonian)
 - ⭐ 4 stars python in [HackerRank](https://www.hackerrank.com/Kriptonian)
-- 🔭 I’m currently working on [Symbi0n](https://github.com/kriptonian1/Symbi0n) & [roBOT](https://github.com/kriptonian1/roBOT)
+- 🔭 I’m currently working on Hacktoberfest
 - 🌱 I’m currently learning C++ & Java
 - 👯 I’m looking to collaborate on more Open-source projets :octocat:
 - 💬 Ask me about Python
