@@ -50,6 +50,7 @@ Here are some ideas to get you started:
   <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriptonian1&theme=react&hide_langs_below=1&line_height=27" alt="kriptonian's github stats" />
 </a> </p>
 
+<img align="middle" src="https://gpvc.arturio.dev/kriptonian1" alt="profile view" />
 <!--
 **kriptonian1/kriptonian1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
