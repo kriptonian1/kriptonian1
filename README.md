@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 - ⭐ 3 stars in [Codechef](https://www.codechef.com/users/kriptonian)
 - ⭐ 4 stars python in [HackerRank](https://www.hackerrank.com/Kriptonian)
+- 🐳 Completed Hacktober 2021
 - 🔭 I’m currently working on Hacktoberfest
 - 🌱 I’m currently learning C++ & Java
 - 👯 I’m looking to collaborate on more Open-source projets :octocat:
