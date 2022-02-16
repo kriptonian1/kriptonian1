@@ -20,7 +20,7 @@
 ### About Me 🚀
 I'm an Open-Source enthusiast from India :india: & currently I am a 1st year undergrad :classical_building: 
 </br>
-I'm a pure geek <img src="https://github.com/kriptonian1/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who loves learning new technology
+I'm a pure geek <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who loves learning new technology
 
 Here are some ideas to get you started:
 
