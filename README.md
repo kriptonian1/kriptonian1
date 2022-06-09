@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="43" style="max-width: 100%;"> , I'm Kriptonian</h1>
+<h1 align="center"> Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="43" style="max-width: 100%;"> , I'm Kriptonian </h1>
 
 <a href="https://www.linkedin.com/in/sawan-bhattacharya/">
   <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"  />
