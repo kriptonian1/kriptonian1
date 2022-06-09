@@ -1,4 +1,5 @@
-## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Kriptonian
+
+<h1 align="center">Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="43" style="max-width: 100%;"> , I'm Kriptonian</h1>
 
 <a href="https://www.linkedin.com/in/sawan-bhattacharya/">
   <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"  />
@@ -20,7 +21,8 @@
 ### About Me 🚀
 I'm an Open-Source enthusiast from India :india: & currently I am a 1st year undergrad :classical_building: 
 </br>
-I'm a pure geek <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who loves learning new technology
+
+<div>I'm a pure geek <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30"> who loves learning new technology</div>
 
 Here are some ideas to get you started:
 
