@@ -19,7 +19,7 @@
 </br>
 
 ### About Me 🚀
-I'm an Open-Source enthusiast from India :india: & currently I am a 1st year undergrad :classical_building: 
+I'm an Open-Source enthusiast from India :india: & currently I am a 2st year undergrad :classical_building: 
 </br>
 
 <div>I'm a pure geek <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30"> who loves learning new technology</div>
