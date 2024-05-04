@@ -19,7 +19,7 @@
 </br>
 
 ### About Me 🚀
-I'm an Open-Source enthusiast from India :india: & currently I am a 2st year undergrad :classical_building: 
+I'm an Open-Source enthusiast from India :india: & currently I am a 3rd year undergrad :classical_building: 
 </br>
 
 <div>I'm a pure geek <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30"> who loves learning new technology</div>
@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 - ⭐ 3 stars in [Codechef](https://www.codechef.com/users/kriptonian)
 - ⭐ 4 stars python in [HackerRank](https://www.hackerrank.com/Kriptonian)
 - 🐳 Completed Hacktober 2021
-- 🔭 I’m currently working on Hacktoberfest
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on Keyshade
+- 🌱 I’m currently learning Rust 🦀
 - 👯 I’m looking to collaborate on more Open-source projets :octocat:
-- 💬 Ask me about Python
+- 💬 Ask me about React ⚛️
 
 ## :toolbox: Toolbox
 <img align="left" src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" height="50"> <img align="left" src = "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="50" height="50"> <img align="left" src = "https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" height="50"> <img align="left" src = "https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" width="50" height="50"> <img align="left" src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" width="50" height="50"> <img align="left" src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/768px-Icons8_flat_linux.svg.png" width="63" height="63"> <img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" width="43" height="43"> <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" width="53" height="53">
