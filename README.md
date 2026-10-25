@@ -7,12 +7,6 @@
 <a href="https://twitter.com/kriptonian8">
   <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg"  />
 </a>
-<a href="https://www.instagram.com/_kriptonian/">
-  <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"  />
-</a>
-<a href="https://discord.com/users/448359781095440385">
-  <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg"  />
-</a>
 <a href="https://dev.to/kriptonian">
   <img align="left"  src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  />
 </a>
